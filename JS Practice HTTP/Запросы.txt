@@ -1,0 +1,5 @@
+Информационный ответ (100 - 199): не поддерживается в браузере
+Успешный ответ (200 - 299): http://localhost:3000/weather?city=Vitebsk&apikey=03e2263931dffc2aae7b642f7c477738
+Переадресация сообщений (300 - 399): http://localhost:3000/weather?city=test&apikey=03e2263931dffc2aae7b642f7c477738
+Ошибка клиента ответ (400 - 499): http://localhost:3000/weather?city=Vitebsk&apikey=test_key
+Ошибка сервера ответ (500 - 599): http://localhost:3000/weather?city=Vetebsk&apikey=03e2263931dffc2aae7b642f7c477738
